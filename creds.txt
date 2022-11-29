@@ -1,0 +1,3 @@
+send_address =
+password_for_send_address =
+recieve_address =
